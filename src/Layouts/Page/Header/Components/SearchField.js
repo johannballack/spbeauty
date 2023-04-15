@@ -23,7 +23,7 @@ const Input = styled.input`
 `;
 
 const SearchIconWrapper = styled.div`
-    background-color: #4B759E;
+    background-color: none;
     position: absolute;
     box-sizing:border-box;
     right: 2.5px;  /* Здесь можно добавить отступ от правого края, чтобы сдвинуть иконку левее */
